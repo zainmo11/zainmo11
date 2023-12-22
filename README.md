@@ -36,7 +36,9 @@
 </div>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right""> <br>
+</p>
 ## 🌱 Learning
 
 - 🅰️ **Front-End Development:** Angular, HTML, CSS, Tailwind, JavaScript, TypeScript
@@ -44,14 +46,14 @@
 - 🌐 **Backend Development:** Python, Django, RESTful APIs
 - 📚 **Current Courses:** React Js
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-</p>
-<br />
+
+
+<br><br>
+<div>
 <h4 align="center"><br>
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h4>
- 
+ <br />
 <p align="center">
   <img src="./Reame_icon/icons/CSS.svg" width="48"> 
   <img src="./Reame_icon/icons/Bash-Dark.svg" width="48"> 
@@ -81,32 +83,31 @@
   <img src="./Reame_icon/icons/Octave-Dark.svg" width="48">   
   <img src="./Reame_icon/icons/Regex-Dark.svg" width="48"> 
 </p>
-         
+</div> 
 
 
 ## 🚀 Goals
 
-- Gain deeper insights into Front-End technologies
-- Excel in Embedded Systems development
-- Build full-stack applications with Django and Angular
+- **Gain deeper insights into Front-End technologies**
+- **Excel in Embedded Systems development**
+- **Build full-stack applications with Django and Angular**
 
 ## 📚 Currently Studying
 
--Computer and Systems Engineering at Ain Shams University.
+-**Computer and Systems Engineering at Ain Shams University.**
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Abdelrhman zain](https://www.linkedin.com/in/abdelrhman-zain-34a350203/)
-- Gmail: [zyn6681@gmail.com](zyn6681@gmail.com)
+- **LinkedIn: [Abdelrhman zain](https://www.linkedin.com/in/abdelrhman-zain-34a350203/)**
+- **Gmail: [zyn6681@gmail.com](zyn6681@gmail.com)**
 
 ## 🌐 Explore More
 
-- [Comming Soon !](!)
+- **[Comming Soon !](!)**
 
 
 ## 🌟 Fun Fact
 
-- I love playing chess ♟️.
-- I'm fascinated by space science and often delve into astrophysics readings 🚀.
-
-Thanks for stopping by! 🚀
+- **I love playing chess ♟️.**
+- **I'm fascinated by space science and often delve into astrophysics readings 🚀.**
+# <p align="center">Thanks for stopping by! 🚀</p>

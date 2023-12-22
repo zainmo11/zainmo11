@@ -3,7 +3,7 @@
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrhman-Zain-Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrhman-Zain-Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 

@@ -95,7 +95,7 @@
 
 ## 📚 Currently Studying
 
--**Computer and Systems Engineering at Ain Shams University.**
+- **Computer and Systems Engineering at Ain Shams University.**
 
 ## 📫 Let's Connect
 

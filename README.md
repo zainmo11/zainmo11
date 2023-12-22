@@ -23,8 +23,6 @@
   <a href="https://github.com/zainmo11"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🤖%20Embedded%20Software%20Embeddded;🌐%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=690&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-
 <div align="center">
   <a href="https://github.com/zainmo11">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=zainmo11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="zainmo11's GitHub stats" />

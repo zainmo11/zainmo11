@@ -2,6 +2,9 @@
 
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
+<p align="center" style="font-size: medium;">(My Portfolio will be available soon)</p>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrhman-Zain-Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 

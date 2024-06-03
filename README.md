@@ -2,7 +2,7 @@
 
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
-<p align="center" style="font-size: medium;">(https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) </p>
+[Zain.me](https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) 
 
 
 
@@ -107,7 +107,7 @@
 
 ## 🌐 Explore More
 
-- **[Comming Soon !](!)**
+- [Zain.me](https://zainmo11.github.io/my-portfolio/index.html)
 
 
 ## 🌟 Fun Fact

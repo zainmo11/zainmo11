@@ -2,7 +2,7 @@
 
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
-<p align="center" style="font-size: medium;">(My Portfolio will be available soon)</p>
+<p align="center" style="font-size: medium;">(https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) </p>
 
 
 

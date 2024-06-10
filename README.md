@@ -14,8 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=zainmo11&label=Visitors&color=0e75b6&style=flat" alt="zainmo11" />
   <a href="https://github.com/zainmo11?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zainmo11"/>
-  </a>
-    </a>
   <a href="https://github.com/zainmo11">
     <img src="https://img.shields.io/github/followers/zainmo11?label=Followers&style=social" alt="Followers"/>
   </a>

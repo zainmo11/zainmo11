@@ -2,7 +2,7 @@
 
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
-[Zain.me](https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) 
+[Zain.me](https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) this is a simple protfolio and the next version will be more dynamic using Three.js
 
 
 

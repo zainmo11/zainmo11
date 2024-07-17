@@ -20,7 +20,7 @@
 </p>
 
   <p align="center">
-  <a href="https://github.com/zainmo11"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🤖%20Embedded%20Software%20Engineer;🌐%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=690&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/zainmo11"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🤖%20AI%20Engineer;🌐%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=690&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="center">

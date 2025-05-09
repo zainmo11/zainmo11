@@ -2,9 +2,6 @@
 
 **I'm a student passionate about technology, currently exploring the realms of Front-End Development with Angular and Embedded Systems. I'm also venturing into Backend Development using Django and learning to build RESTful APIs.**
 
-[Zain.me](https://zainmo11.github.io/my-portfolio/index.html) (under maintenance) this is a simple protfolio and the next version will be more dynamic using Three.js
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrhman-Zain-Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
@@ -101,11 +98,6 @@
 
 - **LinkedIn: [Abdelrhman zain](https://www.linkedin.com/in/abdelrhman-zain-34a350203/)**
 - **Gmail: [zyn6681@gmail.com](zyn6681@gmail.com)**
-
-## 🌐 Explore More
-
-- [Zain.me](https://zainmo11.github.io/my-portfolio/index.html)
-
 
 ## 🌟 Fun Fact
 
